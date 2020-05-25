@@ -1,0 +1,12 @@
+{
+  "drivers": [
+    {
+      "pattern": "^(did:ont:.+)$",
+      "image": "ontio/ontid-driver",
+      "tag": "latest",
+      "testIdentifiers": [
+        "did:ont:AN5g6gz9EoQ3sCNu7514GEghZurrktCMiH"
+      ]
+    }
+  ]
+}
