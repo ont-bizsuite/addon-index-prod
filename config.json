@@ -7,16 +7,6 @@
       "testIdentifiers": [
         "did:ont:AN5g6gz9EoQ3sCNu7514GEghZurrktCMiH"
       ]
-    },
-    {
-      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
-      "addons": [{
-        "name": "Witness-Addon",
-        "configImage": "carltraveler/witness_configv0:v5",
-        "runtimeImage": "carltraveler/witnessv1:v7",
-        "official": true
-      }],
-      "sig": "0114a4a3392fe13e67d5a3378a7e674c99b03156b33741d3c2b0a9e067ba0a7dcc66c6121becd12eaf5a1a04603ab33d2a05115e5a3c84235c515a9bd317f82554"
     }
   ]
 }
