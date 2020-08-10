@@ -29,6 +29,19 @@
           "subStep": true
         }],
       "sig": "016e3b1a02ba5b10fdbe3025957249a2221883fdb8aa3ab2e175e4b422178c08840933d8dda2df8d3352eef0667b6fc34cdf3b207d4e70abc0141e3be53910f0d9"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "addons": [{
+        "mainConfigImage": "sqrongyi/addon-witness:1.7.0",
+        "mainRuntimeImage": "carltraveler/witnessv1:v25",
+        "name": "Attestation",
+        "official": false,
+        "subStep": true,
+        "testConfigImage": "sqrongyi/addon-witness:1.7.0",
+        "testRuntimeImage": "carltraveler/witnessv1:v25"
+      }],
+      "sig": "01b01ea879ecd26c209749581a14a324cae11ba04884ad92454e37a8af3b0776b8d8444e5682812272790c2f13d3552190f40b9b4f9e0a231844d229f6eada8d22"
     }
   ]
 }
