@@ -41,7 +41,7 @@
         "testConfigImage": "sqrongyi/addon-witness:1.7.0",
         "testRuntimeImage": "carltraveler/witnessv1:v25"
       }],
-      "sig": "01de6a679d253d5e8f8323783039cada292472a4e1165e57ddfc060745ee1e7374f119aa7a8b32de8126a9281314438f50c9316aeb7252aa1b9f5cc160a29e8b53"
+      "sig": "01b01ea879ecd26c209749581a14a324cae11ba04884ad92454e37a8af3b0776b8d8444e5682812272790c2f13d3552190f40b9b4f9e0a231844d229f6eada8d22"
     }
   ]
 }
