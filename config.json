@@ -42,6 +42,19 @@
         "testRuntimeImage": "carltraveler/witnessv1:v25"
       }],
       "sig": "01b01ea879ecd26c209749581a14a324cae11ba04884ad92454e37a8af3b0776b8d8444e5682812272790c2f13d3552190f40b9b4f9e0a231844d229f6eada8d22"
+    },
+    {
+      "owner": "did:ont:Adg3mfNAbfNwjvtbBSziZnXKKP3HbHNqM5",
+      "addons": [{
+        "mainConfigImage": "sqrongyi/private-chain-config:1.6.0",
+        "mainRuntimeImage": "sqrongyi/private-chain-ontology:1.4.0",
+        "name": "Consortium chain",
+        "official": false,
+        "subStep": true,
+        "testConfigImage": "sqrongyi/private-chain-config:1.6.0",
+        "testRuntimeImage": "sqrongyi/private-chain-ontology:1.4.0"
+      }],
+      "sig": "0196b53382d43232c749fd6c58f89cd1180a5fbf39683c388ada012a91122df660adb48f5f64f7c5e9d6410a8dbc4b26cda4ea64aca8400ab3a5297aefc9299e16"
     }
   ]
 }
